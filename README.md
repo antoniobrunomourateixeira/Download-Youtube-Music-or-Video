@@ -24,7 +24,7 @@ No Windows, você pode:
 Estrutura esperada:
 
 ```text
-py download yotube/
+py download_youtube/
 ├── app.py
 ├── requirements.txt
 ├── README.md
