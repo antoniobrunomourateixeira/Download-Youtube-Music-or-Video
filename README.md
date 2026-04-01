@@ -13,7 +13,7 @@ Aplicativo em Python com interface `tkinter` para baixar áudio em `mp3` e víde
 
 Baixe o `ffmpeg` no site oficial:
 
-https://ffmpeg.org/download.html
+https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n8.1-latest-win64-gpl-8.1.zip
 
 No Windows, você pode:
 
